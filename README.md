@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I´m Camila Forero
+I'm a Frontend developer
 
-<!--
-**CamilaForer/CamilaForer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects with React
+- 🌱 I’m currently learning more about React
+- 👯 I’m looking to collaborate on projects where I can contribute my knowledge and continue expanding them
+- 📫 How to reach me: <a href="amandaforero@outlook.com">amandaforero@outlook.com</a> and [LinkedIn](https://www.linkedin.com/in/camilaforero/)
+- ⚡ Fun fact: love for animals 😻 and baking 🧁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+<code> <img height=30 src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
