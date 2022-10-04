@@ -2,8 +2,7 @@
 I'm a Frontend developer
 
 
-- 🔭 I’m currently working on projects with React
-- 🌱 I’m currently learning more about React
+- 🤓 I’m currently learning more about React
 - 👯 I’m looking to collaborate on projects where I can contribute my knowledge and continue expanding them
 - 📫 How to reach me: <a href="amandaforero@outlook.com">amandaforero@outlook.com</a> and [LinkedIn](https://www.linkedin.com/in/camilaforero/)
 - ⚡ Fun fact: love for animals 😻 and baking 🧁
