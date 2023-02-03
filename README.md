@@ -16,4 +16,10 @@ I'm a Frontend developer
 <code><img height="30" src="https://user-images.githubusercontent.com/86115727/215509398-fbd7159b-7703-4ccd-9b6d-c1255c28578b.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/86115727/215509733-21be32e9-0650-4e29-b313-50c1767c04a7.png"></code>
 
+# 📊 GitHub Stats:
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilaForer&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="CamilaForer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamilaForer&theme=dark&hide_border=false" alt="CamilaForer" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaForer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=CamilaForer&icon=0&color=0)](https://visitcount.itsvg.in)
